@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## About me
-
+- My name is Mouaad Gssair
+- I'm currently working as a Software developer at Bosch IO in Berlin
 - 🔭 I’m currently working on IIoT Projects
 - 🌱 I’m currently learning Cloud Solutions and AI/ML
 - 📫 How to reach me: Mgsair@gmail.com
